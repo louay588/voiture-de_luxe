@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title> voiture for cute</title>
+	<style type="text/css">
+		td{
+			border: 1px solid black ;padding: 15px; text-align: center;
+		}
+		table{
+			margin: auto; 
+		}
+		h1{
+			text-align: center; margin:20px; font-style: italic ;font-family: serif; font-size: 500%; color: rosybrown ;
+		}
+		div{
+			margin-top: 100px;
+		}
+	</style>
+</head>
+<body style="background-color: black;"> 
+	<h1 >des <sub>marques</sub> de<sub> voiture</sub></h1>
+<div>
+   <table style="background-color:mistyrose;">
+   	<tr>
+   		<td><a href="https://www.landrover.fr/index.html">land rover</a></td>
+   		<td><a href="https://www.volkswagen.fr/fr.html">volswagen</a></td>
+   		<td><a href="https://www.bmw.fr/fr/accueil.html">BMW</a></td>
+   		<td><a href="https://www.mercedes-benz.fr/">mercedes</a></td>
+   		<td><a href="https://www.kia.com/fr/">kia</a></td>
+   		<td><a href="https://www.haval-global.com/">haval</a></td>
+   	</tr>
+   	<tr>
+   		<td><a href="https://www.landrover.fr/index.html"><img src="land rover.png" width="190"></a></td>
+   		<td><a href="https://www.volkswagen.fr/fr.html"><img src="volswagen.png" width="190"></a></td>
+   		<td><a href="https://www.bmw.fr/fr/accueil.html"><img src="bmw.png" width="190"></a></td>
+   		<td><a href="https://www.mercedes-benz.fr/"><img src="mercedes.jpg" width="190"></a></td>
+   		<td><a href="https://www.kia.com/fr/"><img src="kia.png" width="190"></a></td>
+   		<td><a href="https://www.haval-global.com/"><img src="havl.png" width="190"></a></td>
+   	</tr>
+   </table>
+</div>
+</body>
+</html>
